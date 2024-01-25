@@ -30,3 +30,9 @@ This C++ project implements a Genetic Algorithm (GA) as part of the COS110 first
 - Uses classes like Chromosome and RandomGenerator to create a complete GA.
 - Ensures proper memory management throughout the algorithm.
 - Provides functions to calculate average fitness, standard deviation, and variance of the population.
+
+#### How to Run
+
+-Clone the repo
+
+-Run the following command: `make && make run`
